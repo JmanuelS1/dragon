@@ -17,34 +17,6 @@ Este proyecto presenta un dragón animado que sigue el movimiento del cursor o d
 ## 📦 Instalación y Uso
 
 1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/dragon-interactivo.git
-   ```
-
-¡Claro! Aquí tienes un ejemplo de un archivo README.md para tu proyecto:
-
-markdown
-Copiar código
-
-# Dragón Interactivo 🐉
-
-Este proyecto presenta un dragón animado que sigue el movimiento del cursor o del dedo en dispositivos táctiles. Es una experiencia interactiva y entretenida que demuestra el potencial de las tecnologías web para crear dinámicas visuales y atractivas.
-
-## 🚀 Características
-
-- El dragón sigue el movimiento del mouse en computadoras.
-- Responde al toque y deslizamiento en dispositivos táctiles.
-- Movimientos fluidos y naturales para una experiencia inmersiva.
-
-## 🛠️ Tecnologías Utilizadas
-
-- **HTML5**: Estructura del proyecto.
-- **CSS3**: Animaciones y estilos.
-- **JavaScript**: Lógica para la interacción del dragón.
-
-## 📦 Instalación y Uso
-
-1. Clona este repositorio:
 
    ```bash
    git clone https://github.com/tu-usuario/dragon-interactivo.git
